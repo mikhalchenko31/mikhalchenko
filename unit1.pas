@@ -12,9 +12,13 @@ type
   { TForm1 }
 
   TForm1 = class(TForm)
+    Button1: TButton;
+    Button2: TButton;
+    CheckBox1: TCheckBox;
     Edit1: TEdit;
     Edit2: TEdit;
     Label1: TLabel;
+    RadioButton1: TRadioButton;
   private
 
   public
